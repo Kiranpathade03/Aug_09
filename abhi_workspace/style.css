@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    background-color: brown;
+    color: aquamarine;
+    font-size: xx-large;
+}
+
+p {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: x-large;
+}
+
+h2 {
+    text-align: center;
+    font-size: x-large;
+    background-color: brown;
+    color: aquamarine;
+}
+
+.check {
+    text-align: center;
+    font-size: large;
+}
